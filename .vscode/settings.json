@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "connectionTimeout": 30,
+            "hanaOptions": {
+                "encrypt": true,
+                "sslValidateCertificate": false
+            },
+            "previewLimit": 50,
+            "driver": "SAPHana",
+            "name": "hdb",
+            "port": 443,
+            "server": "22704bbb-126c-48af-8e27-3a6dc4e9b48a.hana.trial-us10.hanacloud.ondemand.com",
+            "database": "D772127AB9A14A0EB6DAA619056A4AAB",
+            "username": "D772127AB9A14A0EB6DAA619056A4AAB_26CPW8VKT9TT4H8YORGQJOZKS_RT",
+            "password": "Qt2KEnGL6dbk9j3.cl5AdAHGgmdyiNHX1UGQq-Z23Ohk0X8TSHVscOqaAC6eTDiog.4Pgy9xVH1Dc1.7X3T7_wE.FeJPDdnrnMBLtQxdm9vHlURnkR8Z7INKG87t5Vqf"
+        }
+    ]
+}

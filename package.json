@@ -16,7 +16,8 @@
   },
   "scripts": {
     "start": "cds-serve",
-    "watch-books": "cds watch --open books/webapp/index.html?sap-ui-xx-viewCache=false"
+    "watch-books": "cds watch --open books/webapp/index.html?sap-ui-xx-viewCache=false",
+    "watch-vt_books": "cds watch --open vt_books/webapp/index.html?sap-ui-xx-viewCache=false"
   },
   "cds": {
     "requires": {
@@ -24,6 +25,7 @@
     }
   },
   "sapux": [
-    "app/books"
+    "app/books",
+    "app/vt_books"
   ]
 }

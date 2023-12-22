@@ -1,0 +1,1 @@
+using sap.srv.MyService as service from '../../srv/service';

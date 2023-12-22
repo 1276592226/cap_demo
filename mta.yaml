@@ -31,7 +31,6 @@ modules:
       buildpack: nodejs_buildpack
     requires:
       - name: cap_demo-db
-
 resources:
   - name: cap_demo-db
     type: com.sap.xs.hdi-container

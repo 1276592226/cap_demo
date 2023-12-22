@@ -1,0 +1,27 @@
+{
+    "ups": {
+        "object_owner": {
+            "global_roles" : [
+                {
+                  "roles" : [ "SYSHDL_TENANT4_ROLE" ],
+                  "roles_with_admin_option" : [ "SYSHDL_TENANT4_ROLE" ]
+                }
+            ],
+            "global_object_privileges" : [
+                {
+                  "name" : "SYSHDL_TENANT4_SOURCE",
+                  "type" : "REMOTE SOURCE",
+                  "privileges" : [ "CREATE VIRTUAL TABLE" ]
+                }
+            ]
+        },
+        "application_user": {
+            "global_roles" : [
+                {
+                  "roles" : [ "SYSHDL_TENANT4_ROLE" ],
+                  "roles_with_admin_option" : [ "SYSHDL_TENANT4_ROLE" ]
+                }
+            ]
+        }
+    }
+}

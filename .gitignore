@@ -30,3 +30,6 @@ mta_archives/
 # .vscode
 # .idea
 hdb.session.sql
+
+# auto generated wildcard
+db/.env

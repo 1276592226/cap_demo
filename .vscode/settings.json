@@ -15,5 +15,6 @@
             "username": "D772127AB9A14A0EB6DAA619056A4AAB_26CPW8VKT9TT4H8YORGQJOZKS_RT",
             "password": "Qt2KEnGL6dbk9j3.cl5AdAHGgmdyiNHX1UGQq-Z23Ohk0X8TSHVscOqaAC6eTDiog.4Pgy9xVH1Dc1.7X3T7_wE.FeJPDdnrnMBLtQxdm9vHlURnkR8Z7INKG87t5Vqf"
         }
-    ]
+    ],
+    "SAP HANA Project Explorer.bind.confirm automatic undeployment": false
 }
